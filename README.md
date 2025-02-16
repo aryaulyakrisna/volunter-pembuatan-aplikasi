@@ -6,4 +6,4 @@ Silakan gunakan format berikut:<br>
 **\* Nama, [LinkedIn/GitHub/Website](Alamat URL).**  
 
 Berikut adalah daftar Volunter yang diterima:
-* Arya Ulya Krisna, [Linkedin](https://www.linkedin.com/in/arya-ulya-krisna/)
+* Arya Ulya Krisna, [Linkedin](https://www.linkedin.com/in/arya-ulya-krisna/) 😔
